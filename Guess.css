@@ -1,0 +1,31 @@
+a.T:link, a.T:visited{
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid white;
+    border-radius: 7px;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.4s;
+    display: inline-block;
+}
+a.T:hover, a.T:active{
+    background-color: rgba(0, 255, 0, 0.9);
+    padding: 20px 150px;
+}
+
+a.F:link, a.F:visited{
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid white;
+    border-radius: 7px;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.4s;
+    display: inline-block;
+}
+a.F:hover, a.F:active{
+    background-color: rgba(0, 255, 0, 0.9);
+    padding: 20px 150px;
+}

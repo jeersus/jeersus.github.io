@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--meta標籤-->
+        <meta charset="UTF-8"></meta>
+        <meta name="decription" content="Jeersus的個人網站" />
+        <meta name="author" content="JeerSuS" />
+        <meta name="keywords" content="JeerSuS, html" />
+        <!--視口 根據視窗大小作等比例調整內容-->
+        <meta name="viewport" content="width=device=width, initial-scale=1.0" />
+        <title>JeerSuS web</title>
+    </head>
+    <body>
+
+
+    </body>
+</html>
+
+
+

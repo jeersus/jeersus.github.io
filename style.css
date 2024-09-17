@@ -1,0 +1,142 @@
+.game{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    text-align: center;
+}
+a{
+    color: white;
+}
+b{
+    color: white;
+}
+table{
+    color: white;
+}
+h2{
+    color: white;
+}
+a.l:link{
+    color: red;
+    text-decoration: none;
+    text-align: center;
+}
+a.l:visited{
+    color: lightcoral;
+    text-decoration: none;
+    text-align: center;
+}
+a.l:hover{
+    color: lightblue;
+    text-decoration: underline;
+    text-align: center;
+}
+a.l:active{
+    color: pink;
+    text-decoration: underline;
+    text-align: center;
+}
+a.game:link{
+    color: rgb(0, 255, 234);
+    text-decoration: none;
+    text-align: center;
+}
+a.game:visited{
+    color: rgb(36, 157, 255);
+    text-decoration: none;
+    text-align: center;
+}
+a.game:hover{
+    color: rgb(151, 229, 255);
+    text-decoration: underline;
+    text-align: center;
+}
+a.game:active{
+    color: rgb(201, 255, 252);
+    text-decoration: underline;
+    text-align: center;
+}
+a.one:link, a.one:visited{
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 7px;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.4s;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a.one:hover, a.one:active{
+    background-color: red;
+    padding: 20px 31px;
+}
+
+a.two:link, a.two:visited{
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid white;
+    border-radius: 7px;
+    color: white;
+    padding: 14px 21px;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.4s;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a.two:hover, a.two:active{
+    background-color: rgb(0, 189, 223);
+    padding: 20px 27px;
+}
+a.three:link, a.three:visited{
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid white;
+    border-radius: 7px;
+    color: white;
+    padding: 14px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    opacity: 0.6;
+    cursor: not-allowed;
+    margin-left: auto;
+    margin-right: auto;
+}
+a.three:hover, a.three:active{
+    background-color: rgb(115, 0, 0);
+}
+a.guess:link, a.guess:visited{
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid white;
+    border-radius: 7px;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.4s;
+    display: inline-block;
+}
+a.guess:hover, a.guess:active{
+    background-color: rgba(0, 255, 0, 0.9);
+    padding: 20px 150px;
+}
+a.mail:link, a.mail:visited{
+    background-color: rgb(53, 53, 53);
+    border: 3px solid rgb(78, 70, 70);
+    border-radius: 7px;
+    color: white;
+    padding: 15px 95px;
+    text-align: center;
+    text-decoration: none;
+}
+a.mail:hover, a.mail:active{
+    background-color: rgb(109, 109, 109);
+}
